@@ -9,7 +9,7 @@ import uuid
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('db', '0005_alter_eventregistration_options'),
+        ('db', '0003_alter_eventregistration_options'),
     ]
 
     operations = [
